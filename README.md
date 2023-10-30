@@ -1,4 +1,4 @@
-![02BAD6F7-84B7-4C23-A3E8-903EE69A0372](https://github.com/masettymahima/masettymahima/assets/149304756/5380ef97-fe3f-4fc3-82e6-9bc615c5f56a)
+           ![02BAD6F7-84B7-4C23-A3E8-903EE69A0372](https://github.com/masettymahima/masettymahima/assets/149304756/5380ef97-fe3f-4fc3-82e6-9bc615c5f56a)
 
 # Hi there, I'm Mahima Masetty 👋🏽
 ## Data Analyst / Aspiring Data Scientist
