@@ -9,7 +9,6 @@
 
 <p align="center">
 * ✉️  You can contact me at masettymahima@gmail.com
-* ⚡ Fun fact: I'm learning how to play the guitar! 
  </p>
  
 <h3 align="center">Skills:</h3>
