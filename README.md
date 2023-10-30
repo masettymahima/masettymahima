@@ -1,4 +1,6 @@
-<img align= "center" src ="https://github.com/masettymahima/masettymahima/assets/149304756/d4488b5e-9c2a-4f0b-9bc1-2f5b461aa6d6">
+<p align="center">
+  <img src=""https://github.com/masettymahima/masettymahima/assets/149304756/d4488b5e-9c2a-4f0b-9bc1-2f5b461aa6d6"/>
+</p>
 
 # Hi there, I'm Mahima Masetty 👋🏽
 ## Data Analyst / Aspiring Data Scientist
