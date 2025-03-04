@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Hi, I'm Mahima Masetty 👋🏽</h1>
-<h3 align="center">An Aspiring Data Scientist </h3>
+<h3 align="center"> Master's in Applied Data Science, University of Chicago </h3>
 
 <p align="center"> I’m currently pursuing a Master’s in Applied Data Science at the University of Chicago, leveraging and expanding my technical and analytical expertise. I hold a Bachelor’s degree in Business Administration from Boston University’s Questrom School of Business, with dual concentrations in Business Analytics and Marketing. Post-graduation, I worked as a Data Analyst and Data Tracking Specialist in the e-commerce and digital marketing industry, where I honed my skills in data-driven decision-making and strategy. I’m passionate about using data science to decode consumer behavior and empower businesses to enhance their products and processes. Eager to learn and grow, I look forward to contributing to the GitHub community and refining my skillset through collaboration and innovation! </p>
 
