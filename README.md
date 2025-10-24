@@ -43,7 +43,7 @@ Outside of work, you’ll find me cooking elaborate meals for friends, listening
 - **Analytics & Marketing Science:** Predictive Analytics, Mixed Media Modeling, Churn Prediction, Customer Segmentation, Market Basket & Share Analysis, Price Elasticity, Conjoint Analysis  
 - **Other:** ETL Pipelines, Relational Database Management, Data Warehousing
 
-Take a look around my repo to see how I bring these skills to life! ⭐️
+Take a look around my repo to see how I bring these skills to life! 🦾
 
 ---
 
