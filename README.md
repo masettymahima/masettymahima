@@ -7,7 +7,7 @@ Welcome to my Data Science Portfolio 🌟
 ## 📚 Education
 
 🎓 **M.S. in Applied Data Science**, The University of Chicago  
-*Focus:* Machine Learning, Statistical Modelling, MLOps, Cloud Computing, NLP, Generative AI, and Algorithmic Marketing  
+*Focus:* Machine Learning, Statistical Modelling, Time Series Forecasting, Consulting in Data Science, MLOps, Cloud Computing, NLP, Generative AI, and Algorithmic Marketing  
 
 🎓 **B.S. in Business Administration**, Boston University (Questrom School of Business)  
 *Concentration:* Business Analytics & Marketing | *Honors:* Magna Cum Laude  
@@ -43,9 +43,11 @@ Outside of work, you’ll find me cooking elaborate meals for friends, listening
 - **Analytics & Marketing Science:** Predictive Analytics, Mixed Media Modeling, Churn Prediction, Customer Segmentation, Market Basket & Share Analysis, Price Elasticity, Conjoint Analysis  
 - **Other:** ETL Pipelines, Relational Database Management, Data Warehousing
 
+Take a look around my repo to see how I bring these skills to life! ⭐️
+
 ---
 
-## 🌱 Let’s Connect!  
+## 🤝 Connect With Me!
 
 💼 [LinkedIn](https://www.linkedin.com/in/mmahima)    
 📧 mmahima@uchicago.edu  
