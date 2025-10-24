@@ -22,7 +22,7 @@ I’m currently pursuing my M.S. in Applied Data Science at the University of Ch
 
 Before graduate school, I worked across data and marketing technology roles that taught me to see data through both technical and strategic lenses:  
 
-- 🧩 **ITCAN Technology** – Designed company-wide tracking infrastructure across app, web, and campaign platforms using Firebase, Adjust, and GTM. Automated analytics workflows and Tableau dashboards that improved cross-team data accuracy by over **30%**.  
+- 📍 **ITCAN Technology** – Designed company-wide tracking infrastructure across app, web, and campaign platforms using Firebase, Adjust, and GTM. Automated analytics workflows and Tableau dashboards that improved cross-team data accuracy by over **30%**.  
 - 📊 **Gupta Media** – Managed analytics for $30M+ in annual media spend, building ETL pipelines with Python, Rivery, and BigQuery. Developed marketing-mix and churn models with A/B testing that guided budget allocation and performance strategy for global clients.  
 
 I love working at the intersection of **data, product, and strategy**, where technical solutions meet measurable outcomes.  
