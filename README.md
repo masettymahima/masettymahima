@@ -1,20 +1,51 @@
-<p align="center">
-  <img src="https://github.com/masettymahima/masettymahima/blob/main/header.jpeg"/>
-</p>
+# Hi, I'm Mahima!
 
-<h1 align="center">Hi, I'm Mahima Masetty 👋🏽</h1>
-<h3 align="center"> Master's in Applied Data Science, University of Chicago </h3>
+Welcome to my Data Science Portfolio 🌟  
 
-<p align="center"> I’m currently pursuing a Master’s in Applied Data Science at the University of Chicago, leveraging and expanding my technical and analytical expertise. I hold a Bachelor’s degree in Business Administration from Boston University’s Questrom School of Business, with dual concentrations in Business Analytics and Marketing. Post-graduation, I worked as a Data Analyst and Data Tracking Specialist in the e-commerce and digital marketing industry, where I honed my skills in data-driven decision-making and strategy. I’m passionate about using data science to decode consumer behavior and empower businesses to enhance their products and processes. Eager to learn and grow, I look forward to contributing to the GitHub community and refining my skillset through collaboration and innovation! </p>
+---
 
-<p align="center">
-* ✉️  You can contact me at masettymahima@gmail.com
- </p>
+## 📚 Education
+
+🎓 **M.S. in Applied Data Science**, The University of Chicago  
+*Focus:* Machine Learning, Statistical Modelling, MLOps, Cloud Computing, NLP, Generative AI, and Algorithmic Marketing  
+
+🎓 **B.S. in Business Administration**, Boston University (Questrom School of Business)  
+*Concentration:* Business Analytics & Marketing | *Honors:* Magna Cum Laude  
+
+---
+
+## 👩🏽 About Me  
+
+I’m a data scientist and analytics professional who enjoys building intelligent systems that connect data with business strategy. 
+
+I’m currently pursuing my M.S. in Applied Data Science at the University of Chicago, where I focus on building end-to-end machine learning systems — from data pipelines to model deployment — and measuring the business impact of these systems. 
+
+Before graduate school, I worked across data and marketing technology roles that taught me to see data through both technical and strategic lenses:  
+
+- 🧩 **ITCAN Technology** – Designed company-wide tracking infrastructure across app, web, and campaign platforms using Firebase, Adjust, and GTM. Automated analytics workflows and Tableau dashboards that improved cross-team data accuracy by over **30%**.  
+- 📊 **Gupta Media** – Managed analytics for $30M+ in annual media spend, building ETL pipelines with Python, Rivery, and BigQuery. Developed marketing-mix and churn models with A/B testing that guided budget allocation and performance strategy for global clients.  
+
+I love working at the intersection of **data, product, and strategy**, where technical solutions meet measurable outcomes.  
+
+Outside of work, you’ll find me cooking elaborate meals for friends, listening to music history podcasts, or trying to master the guitar (still a work in progress). 🎸  
  
-<h3 align="center">Skills:</h3>
-<p align="center"> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://www.r-project.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/rlang-colored.svg" width="36" height="36" alt="rlang" /> </a>  <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
+---
 
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/mmahima/)  
-</p>
+## 💻 Tech Stack  
+
+- **Languages:** Python, R, SQL  
+- **Development Tools & IDEs:** RStudio, VSCode, Git, Docker, Jupyter Notebook, Airflow  
+- **Machine Learning & Data Science:**  
+  - **Frameworks & Libraries:** scikit-learn, PySpark, PyTorch, TensorFlow, Keras, NumPy, pandas, Matplotlib, Seaborn, ggplot2  
+  - **Techniques:** NLP, Computer Vision, Generative AI, MLOps, Time Series Forecasting, Regression, Clustering, Supervised & Unsupervised Learning, Feature Engineering  
+- **Data Visualization & BI Tools:** Tableau, Power BI, Looker, MS Excel, Google Sheets  
+- **Big Data & Cloud:** Google Cloud Platform (GCP), AWS, LakeFS, Docker  
+- **Analytics & Marketing Science:** Predictive Analytics, Mixed Media Modeling, Churn Prediction, Customer Segmentation, Market Basket & Share Analysis, Price Elasticity, Conjoint Analysis  
+- **Other:** ETL Pipelines, Relational Database Management, Data Warehousing
+
+---
+
+## 🌱 Let’s Connect!  
+
+💼 [LinkedIn](https://www.linkedin.com/in/mmahima)    
+📧 mmahima@uchicago.edu  
