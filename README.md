@@ -4,7 +4,7 @@ Welcome to my Data Science Portfolio 🌟
 
 ---
 
-## 📚 Education
+## Education
 
 🎓 **M.S. in Applied Data Science**, The University of Chicago  
 *Focus:* Machine Learning, Statistical Modelling, Time Series Forecasting, Consulting in Data Science, MLOps, Cloud Computing, NLP, Generative AI, and Algorithmic Marketing  
@@ -14,7 +14,7 @@ Welcome to my Data Science Portfolio 🌟
 
 ---
 
-## 👩🏽 About Me  
+## About Me  
 
 I’m a data scientist and analytics professional who enjoys building intelligent systems that connect data with business strategy. 
 
@@ -22,8 +22,8 @@ I’m currently pursuing my M.S. in Applied Data Science at the University of Ch
 
 Before graduate school, I worked across data and marketing technology roles that taught me to see data through both technical and strategic lenses:  
 
-- 📍 **ITCAN Technology** – Designed company-wide tracking infrastructure across app, web, and campaign platforms using Firebase, Adjust, and GTM. Automated analytics workflows and Tableau dashboards that improved cross-team data accuracy by over **30%**.  
-- 📊 **Gupta Media** – Managed analytics for $30M+ in annual media spend, building ETL pipelines with Python, Rivery, and BigQuery. Developed marketing-mix and churn models with A/B testing that guided budget allocation and performance strategy for global clients.  
+- **ITCAN Technology** – Designed company-wide tracking infrastructure across app, web, and campaign platforms using Firebase, Adjust, and GTM. Automated analytics workflows and Tableau dashboards that improved cross-team data accuracy by over **30%**.  
+- **Gupta Media** – Managed analytics for $30M+ in annual media spend, building ETL pipelines with Python, Rivery, and BigQuery. Developed marketing-mix and churn models with A/B testing that guided budget allocation and performance strategy for global clients.  
 
 I love working at the intersection of **data, product, and strategy**, where technical solutions meet measurable outcomes.  
 
@@ -31,7 +31,7 @@ Outside of work, you’ll find me cooking elaborate meals for friends, listening
  
 ---
 
-## 💻 Tech Stack  
+## Tech Stack  
 
 - **Languages:** Python, R, SQL  
 - **Development Tools & IDEs:** RStudio, VSCode, Git, Docker, Jupyter Notebook, Airflow  
@@ -43,11 +43,11 @@ Outside of work, you’ll find me cooking elaborate meals for friends, listening
 - **Analytics & Marketing Science:** Predictive Analytics, Mixed Media Modeling, Churn Prediction, Customer Segmentation, Market Basket & Share Analysis, Price Elasticity, Conjoint Analysis  
 - **Other:** ETL Pipelines, Relational Database Management, Data Warehousing
 
-Take a look around my repo to see how I bring these skills to life! 🦾
+Take a look around my repo to see how I bring these skills to life! 
 
 ---
 
-## 🤝 Connect With Me!
+## Connect With Me!
 
 💼 [LinkedIn](https://www.linkedin.com/in/mmahima)    
 📧 mmahima@uchicago.edu  
